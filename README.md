@@ -5,4 +5,4 @@ This project is a tentative answer to the kaggle competition [Benetech - Making 
 
 In addition, this project also tried other schemes, including but not limited to: Convolutional Neural Networks(CNN), Resamling Methhod, t-sne dimensionality reduction, DenseMap dimensionality reduction, grid parameters searching, and Ensemble Learning, but ultimately did not make significant progress in accuracy.
 
-All the code versions were completed by Python programming and stored in [kaggle platform](https://www.kaggle.com/code/yicheung1/cnn-method).
+All the code versions were completed by Python programming and stored in [kaggle platform](https://www.kaggle.com/code/yicheung1/cnn-method). The results of dimension reduction can be seen in 3 mp4 files.
